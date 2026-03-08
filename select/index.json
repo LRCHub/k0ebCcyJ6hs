@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Slingshot",
+  "base_artist": "TNX",
+  "createdAt": "2026-03-08T11:19:17.207727Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Slingshot",
+      "artist": "Lil Xan",
+      "has_synced": true,
+      "path": "select/01_Slingshot_Lil_Xan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Slingshot",
+      "artist": "Good Kid",
+      "has_synced": true,
+      "path": "select/02_Slingshot_Good_Kid.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Slingshot",
+      "artist": "On",
+      "has_synced": true,
+      "path": "select/03_Slingshot_On.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Slingshot",
+      "artist": "Lil Xan",
+      "has_synced": true,
+      "path": "select/04_Slingshot_Lil_Xan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Slingshot",
+      "artist": "Zach Seabaugh feat. Chance Peña",
+      "has_synced": true,
+      "path": "select/05_Slingshot_Zach_Seabaugh_feat._Chance_Peña.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Slingshot",
+      "artist": "Zach Seabaugh;Chance Peña",
+      "has_synced": true,
+      "path": "select/06_Slingshot_Zach_Seabaugh;Chance_Peña.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Slingshot",
+      "artist": "GMS",
+      "has_synced": false,
+      "path": "select/07_Slingshot_GMS.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Slingshot (feat. Chance Peña)",
+      "artist": "Zach Seabaugh feat. Chance Peña",
+      "has_synced": true,
+      "path": "select/08_Slingshot_(feat._Chance_Peña)_Zach_Seabaugh_feat._Chance_Peña.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Slingshot (feat. Chance Peña)",
+      "artist": "Zach Seabaugh",
+      "has_synced": true,
+      "path": "select/09_Slingshot_(feat._Chance_Peña)_Zach_Seabaugh.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SLINGSHOT",
+      "artist": "GAWVI",
+      "has_synced": true,
+      "path": "select/10_SLINGSHOT_GAWVI.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Slingshot",
+      "artist": "Zach Seabaugh",
+      "has_synced": true,
+      "path": "select/11_Slingshot_Zach_Seabaugh.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Slingshot",
+      "artist": "TNX",
+      "has_synced": false,
+      "path": "select/pl_01_Slingshot_TNX.txt"
+    }
+  ]
+}
