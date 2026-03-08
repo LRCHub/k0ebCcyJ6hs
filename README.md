@@ -1,0 +1,119 @@
+# TNX – Slingshot
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+(Peew)
+Where to go where to go
+왼쪽 오른쪽
+날려버려 저 멀리
+해로워 해로워 해로워
+괴로워 괴로워
+너란 사람 내겐 너무 괴로워
+끝내버려 이제는
+해로워 해로워 해로워
+Pop off
+총알처럼 날려 back it off
+Knock down
+내 맘속의 너는 이미 done
+조준하지 My heart
+뒤로 돌아 손들어
+You already broke my heart
+지워버려 널
+Young & wild & free
+but we becoming danger
+(watch out)
+예전의 나는 없어
+I'm a total stranger
+네 머릿속에 그려 놓은
+보기 좋은 이별
+네 꿈에서나 꿔 No 그딴 건 없어
+Where to go where to go
+왼쪽 오른쪽
+날려버려 저 멀리
+해로워 해로워 해로워
+괴로워 괴로워
+너란 사람 내겐 너무 괴로워
+끝내버려 이제는
+해로워 해로워 해로워
+Shoot it
+How dare you wish me well
+Let it go slingshot
+Let it go slingshot
+Shoot it
+(take a shot!)
+Ok I wish you hell
+Let it go slingshot
+Let it go let it go let it go
+어 사만오천오백오십 미터
+여기부터 너의 맘까지 디스턴스
+어 말걸지마지금이제숨참고
+하나 둘 쏴버리기 직전
+그저 시끄러워
+(What what?)
+지치고 지겨워
+(Yeah yeah)
+단어 절반이 Blah
+(blah blah)
+시간만 아까워
+Young & wild & free
+but we becoming danger
+(watch out)
+예전의 나는 없어
+I'm a total stranger
+네 머릿속에 그려 놓은
+보기 좋은 이별
+네 꿈에서나 꿔 No 그딴 건 없어
+Where to go where to go
+왼쪽 오른쪽
+날려버려 저 멀리
+해로워 해로워 해로워
+괴로워 괴로워
+너란 사람 내겐 너무 괴로워
+끝내버려 이제는
+해로워 해로워 해로워
+Shoot it
+How dare you wish me well
+Let it go slingshot
+Let it go slingshot
+Shoot it
+(take a shot!)
+Ok I wish you hell
+Let it go slingshot
+Let it go let it go let it go
+You wish me well I wish you hell
+아무리 졸라도 이 관계는 Fail
+나도 널 몰라 너도 날 몰라
+이건 그냥 박자가 어긋난 춤
+휘청대 Zigzag 무너져 쉽게
+Never do replay 박수를 칠 때
+끝내지 못해서 모든 게 피폐해
+사라져줘 제발 나도 숨 쉬게
+Where you at
+이제는 현실을 받아들일 때야
+Where you at
+쌓아온 업보를 맞닥뜨릴 때야
+상처만 남기고선
+가증스러운 가식 떨지 말아
+난 미련하게
+미련 따위 남기지 않아
+Take a shot pull the trigger now
+You'll never get out of my shot
+Where to go where to go
+왼쪽 오른쪽
+날려버려 저 멀리
+해로워 해로워 해로워
+괴로워 괴로워
+너란 사람 내겐 너무 괴로워
+끝내버려 이제는
+해로워 해로워 해로워
+Shoot it
+How dare you wish me well
+Let it go slingshot
+Let it go slingshot
+Shoot it
+(take a shot!)
+Ok I wish you hell
+Let it go slingshot
+Let it go let it go let it go
+```
